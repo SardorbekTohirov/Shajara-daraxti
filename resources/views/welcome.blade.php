@@ -16,6 +16,10 @@
         </header>
         <section>
             <article>
+                <span id="add-member-btn">
+                    <img src="{{ asset('assets/images/plus.ico') }}" alt="" />
+                </span>
+
                 <div>
                     <ul id="data">
                         <li>Ism Familya</li>
